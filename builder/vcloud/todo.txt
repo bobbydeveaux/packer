@@ -1,0 +1,22 @@
+
+template variables
+
+description
+Specify network
+Mount media
+nat ssh
+ssh
+ssh_keyfile
+set properties
+
+shutdown command
+save template
+destroy
+
+create artifact
+
+
+
+vagrant box.
+
+
